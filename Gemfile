@@ -6,6 +6,7 @@ gem 'sqlite3'
 # gem 'strong_parameters'
 gem 'monban'
 gem 'monban-generators'
+gem 'paperclip', '3.4.0'
 
 gem 'sass-rails', '~> 5.0'
 
