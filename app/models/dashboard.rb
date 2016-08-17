@@ -12,6 +12,6 @@ class Dashboard
   end
 
   def timeline
-    @user.shouts
+    Timeline.new(@user)
   end
 end
